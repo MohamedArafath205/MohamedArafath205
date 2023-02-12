@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedarafath205&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedarafath205" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**, **Flutter**, **React.JS**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**, **C**, **C++**, **HTML**
 
 - 📫 How to reach me **mohamedarafath205@gmail.com**
+
+- **SKILLS**
+- HTML, CSS, Python, JavaScript, Machine Learning, React.JS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
