@@ -19,4 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedarafath205&" alt="mohamedarafath205" /></p>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=mohamedarafath205&show_icons=true&theme=gotham" alt="mohamedarafath205" />
+![Mohamed Arafath's GitHub Status](https://github-readme-stats.vercel.app/api?username=mohamedarafath205&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedarafath205&hide=TeX&layout=compact)
