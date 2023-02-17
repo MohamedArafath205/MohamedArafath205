@@ -25,4 +25,3 @@
 ![Mohamed Arafath's GitHub Status](https://github-readme-stats.vercel.app/api?username=mohamedarafath205&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedarafath205&hide=TeX&layout=compact)
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
