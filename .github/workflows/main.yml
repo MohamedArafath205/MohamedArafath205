@@ -15,4 +15,4 @@
             user_name: MohamedArafath205
             # Text on contribution graph 
             text: Arafath
-       - uses: MohamedArafath205/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1
