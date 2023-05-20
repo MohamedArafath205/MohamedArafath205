@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedarafath205&show_icons=true&locale=en" alt="mohamedarafath205" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedarafath205&" alt="mohamedarafath205" /></p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
