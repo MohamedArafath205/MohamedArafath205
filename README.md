@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my Portfolio [https://mohamedarafath205.github.io/](https://mohamedarafath205.github.io/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**, **Machine Learning**
 
 - 📫 How to reach me **mohamedarafath205@gmail.com**
 
