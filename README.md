@@ -21,6 +21,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedarafath205&" alt="mohamedarafath205" /></p>
 
+### Most Used languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedArafath205&hide=css)](https://github.com/MohamedArafath205/github-readme-stats)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
