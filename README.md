@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Arafath</h1>
-<h3 align="center">A Passionate Machine learning engineer</h3>
+<h3 align="center">A Passionate Machine learning engineer and a Flutter Developer</h3>
 
 <table align="center">
   <tr>
