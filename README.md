@@ -37,7 +37,7 @@
 <!-- activity graph heroku-app end -->
 
 ### Most Used languages:
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohamedArafath205n&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedArafath205&hide=css)](https://github.com/MohamedArafath205/github-readme-stats) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
