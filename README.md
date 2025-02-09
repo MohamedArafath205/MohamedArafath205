@@ -28,8 +28,7 @@
 
 ![Mohamed Arafath's Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedArafath205&show_icons=true)
 
-### Leetcode:
-![LeetCode Stats](https://leetcard.jacoblin.cool/MohamedArafath205?theme=dark&font=Monaco&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/MohamedArafath205?theme=dark&font=Montserrat&ext=heatmap)
 
 <!-- activity graph heroku-app start -->
 <p align="center">
